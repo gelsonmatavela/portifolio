@@ -32,6 +32,10 @@
     margin: 0 1.5rem;
 }
 
+.nav-content a{
+    text-decoration: none;
+}
+
 .menu-item{
     text-decoration: none;
     font-size: 0.9rem;

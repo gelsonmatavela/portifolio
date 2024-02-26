@@ -37,6 +37,10 @@
     margin-left: -2rem;
 }
 
+.mobile-menu a{
+    text-decoration: none;
+}
+
 @media (max-width: 769px){
     .mobile-menu{
         display: block;

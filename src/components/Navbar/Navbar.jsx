@@ -39,9 +39,9 @@ const Navbar = () => {
                         <a href="https://wa.link/6ma3hr"><button className="contact-btn"> Hire Me</button></a>
                     </ul>
 
-                    <button class="menu-btn" onClick={toogleMenu}>
-                        <span class={"material-symbols-outlined"}
-                            style={{ fontSize: "1.4rem" }}
+                    <button className="menu-btn" onClick={toogleMenu}>
+                        <span className={"material-symbols-outlined"}
+                            style={{ fontSize: "1.2rem" }}
                         >
                             {openMenu ? "close" : "menu"}
                         </span>
